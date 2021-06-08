@@ -4,7 +4,7 @@ Easily remove Remote Management notifications in macOS by running `rmMDM` in Ter
 
 * ## Prerequisites
 * SIP must be disabled
-* Big Sur requires authenticated-root also be disabled
+* Big Sur and above requires authenticated-root also be disabled
 
 * ## Important Information
 * It must be reapllied after every update. Open terminal and type `rmMDM`, then reboot. It's that easy!
